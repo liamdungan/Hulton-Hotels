@@ -1,0 +1,29 @@
+
+input, label {
+    display:block;
+}
+
+.tab-content{
+	width:100%; min-height:400px; padding: 25px;
+	border-radius: 10px;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+	background-color:#e8e8e8
+}
+
+.nav-tabs-dropdown {
+  display: none;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.nav-tabs-dropdown:before {
+  content: "\e114";
+  font-family: 'Glyphicons Halflings';
+  position: absolute;
+  right: 30px;
+}
+
+#nav-tabs-wrapper {
+  display: block!important;
+}
