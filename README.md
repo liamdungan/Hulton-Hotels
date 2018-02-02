@@ -4,12 +4,14 @@
 Dynamic and Interactive Hotel Website Design (Data Management RU-NB)
 
 
-##Login / Registration
+Login / Registration
+--------------------
 ![](/designImages/login.png)
 
 ![](/designImages/register.png)
 
-##Search and reservations
+Search and reservations
+--------------------
 ![](/designImages/home.png)
 
 ![](/designImages/hotels.png)
@@ -20,10 +22,12 @@ Dynamic and Interactive Hotel Website Design (Data Management RU-NB)
 
 ![](/designImages/payment.png)
 
-##Side Navigation
+Side Navigation
+--------------------
 ![](/designImages/sideNav.png)
 
-##Reviews
+Reviews
+--------------------
 ![](/designImages/roomreview.png)
 
 ![](/designImages/breakfastReview.png)
