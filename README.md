@@ -28,7 +28,7 @@ Side Navigation
 
 Reviews
 --------------------
-![](/designImages/roomreview.png)
+![](/designImages/roomReview.png)
 
 ![](/designImages/breakfastReview.png)
 
